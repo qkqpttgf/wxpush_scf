@@ -1,0 +1,1 @@
+在环境变量添加APP_TOKEN、jpgurl
